@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of dshovchko/flarum-image-dimensions.** Not for installation: use [Packagist](https://packagist.org/packages/dshovchko/flarum-image-dimensions) or the [upstream repository](https://github.com/dshovchko/flarum-image-dimensions).
 
-**0** versions archived · Latest: [`v1.5.1`](https://github.com/flarchive/dshovchko-flarum-image-dimensions/tree/archive/v1.5.1) · License: `MIT` · Flarum: `^1.0.0`
+**7** versions archived · Latest: [`v1.5.1`](https://github.com/flarchive/dshovchko-flarum-image-dimensions/tree/archive/v1.5.1) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2025-11-06 | `^1.0.0` | [Browse](https://github.com/flarchive/dshovchko-flarum-image-dimensions/tree/archive/v1.0.0) |
+| `v1.1.0` | 2025-11-06 | `^1.0.0` | [Browse](https://github.com/flarchive/dshovchko-flarum-image-dimensions/tree/archive/v1.1.0) |
+| `v1.2.0` | 2025-11-07 | `^1.0.0` | [Browse](https://github.com/flarchive/dshovchko-flarum-image-dimensions/tree/archive/v1.2.0) |
+| `v1.3.0` | 2025-11-09 | `^1.0.0` | [Browse](https://github.com/flarchive/dshovchko-flarum-image-dimensions/tree/archive/v1.3.0) |
+| `v1.4.0` | 2025-11-12 | `^1.0.0` | [Browse](https://github.com/flarchive/dshovchko-flarum-image-dimensions/tree/archive/v1.4.0) |
+| `v1.5.0` | 2025-11-16 | `^1.0.0` | [Browse](https://github.com/flarchive/dshovchko-flarum-image-dimensions/tree/archive/v1.5.0) |
+| `v1.5.1` | 2025-11-27 | `^1.0.0` | [Browse](https://github.com/flarchive/dshovchko-flarum-image-dimensions/tree/archive/v1.5.1) |
 
 Catalog entry: [packages/dshovchko-flarum-image-dimensions.json](https://github.com/flarchive/archive-index/blob/main/packages/dshovchko-flarum-image-dimensions.json)
 
